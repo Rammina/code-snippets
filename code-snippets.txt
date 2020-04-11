@@ -1,0 +1,14 @@
+//HTML 
+
+////Main root
+<html></html>
+
+
+////Document metadata
+<base></base>
+<head></head>	
+<link></link>
+<meta></meta>
+<style></style>
+<title></title>
+
